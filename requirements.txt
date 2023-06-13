@@ -1,0 +1,6 @@
+Flask 
+urllib3 
+PyBypass 
+Telethon
+flask-cors
+beautifulsoup4
